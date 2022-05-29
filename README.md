@@ -20,6 +20,11 @@ Here are some ideas to get you started:
   I'm a Junior Backend Developer 💻
 </h2> 
 
+### 🤝 Connect with me:
+
+<a href="localhost">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<a/>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 ## 🌱 I’m currently learning ...
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
