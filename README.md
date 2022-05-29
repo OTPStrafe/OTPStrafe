@@ -25,6 +25,12 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/otp.strafe/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)<a/>
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
+## 🔭 I'm currently working on
+  
+- My Frontend skills
+- My Portfolio 
+- Projects for learning
+
 ## 🌱 I’m currently learning ...
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
