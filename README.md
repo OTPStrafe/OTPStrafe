@@ -13,9 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3 align="center">
-  Hi there, I'm Gabriel 👋
+Hi there, I'm Gabriel 👋
 </h3
----
+
+<h2 align="center">
+  I'm a Junior Backend Developer 💻
+</h2> 
 
 ## 🌱 I’m currently learning ...
 
