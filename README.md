@@ -23,21 +23,7 @@ Here are some ideas to get you started:
 ### 🤝 Connect with me:
 
 <a href="mailto:otpstrafe@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<a/>
-<a href="https://www.instagram.com/otp.strafe/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)<a/>
 <a href="https://www.linkedin.com/in/gabriel-miranda-a55501240/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)<a/>
-
-## 🔭 I'm currently working on
-  
-- My Frontend skills
-- My Portfolio 
-- Projects for learning
-
-## 🌱 I’m currently learning ...
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
 ## 💼 Technical Skills
@@ -57,7 +43,6 @@ Here are some ideas to get you started:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <br />
-
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
