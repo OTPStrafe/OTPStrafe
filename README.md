@@ -2,18 +2,24 @@
   Hi there, I'm Gabriel 👋
 </h3>
 
-<h2 align="center">
-  I'm a Junior Backend Developer 💻
-</h2> 
+### Contact
 
-### 🤝 Connect with me:
+<a href="mailto:otpstrafe@gmail.com">[![Gmail](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)<a/>
+<a href="https://www.linkedin.com/in/gabriel-miranda-a55501240/">[![Gmail](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)<a/>
 
-<a href="mailto:otpstrafe@gmail.com">![Gmail](https://skillicons.dev/icons?i=gmail)<a/>
-<a href="https://www.linkedin.com/in/gabriel-miranda-a55501240/">![Gmail](https://skillicons.dev/icons?i=linkedin)<a/>
+### Skills
 
-## 💼 Technical Skills
+#### Programming languages
+[![Programming languages](https://skillicons.dev/icons?i=ts,js,c,python,lua)](https://skillicons.dev)
 
-![My Skills](https://skillicons.dev/icons?i=ts,html,css,angular)
+#### Technologies
+[![Technologies](https://skillicons.dev/icons?i=nodejs,git,markdown,rabbitmq,nginx)](https://skillicons.dev)
+
+#### JavaScript/TypeScript
+[![JS/TS](https://skillicons.dev/icons?i=nestjs,express,prisma,sequelize,vite,discordjs)](https://skillicons.dev)
+
+#### Databases
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb)](https://skillicons.dev)
 
 **Github Stats**
 
