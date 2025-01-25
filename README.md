@@ -8,7 +8,7 @@
 
 ### 🤝 Connect with me:
 
-<a href="mailto:otpstrafe@gmail.com">![Gmail](https://skillicons.dev/icons?i=gmail)(https://skillicons.dev))<a/>
+<a href="mailto:otpstrafe@gmail.com">![Gmail](https://skillicons.dev/icons?i=gmail)<a/>
 <a href="https://www.linkedin.com/in/gabriel-miranda-a55501240/">![Gmail](https://skillicons.dev/icons?i=linkedin)<a/>
 
 ## 💼 Technical Skills
