@@ -10,7 +10,7 @@
 ### Skills
 
 #### Programming languages
-[![Programming languages](https://skillicons.dev/icons?i=ts,js,c,python,lua)](https://skillicons.dev)
+[![Programming languages](https://skillicons.dev/icons?i=ts,js,c,cs,python,lua)](https://skillicons.dev)
 
 #### Technologies
 [![Technologies](https://skillicons.dev/icons?i=nodejs,git,markdown,rabbitmq,nginx)](https://skillicons.dev)
